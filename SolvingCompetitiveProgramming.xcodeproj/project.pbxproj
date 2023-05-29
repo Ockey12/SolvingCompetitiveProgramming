@@ -59,6 +59,7 @@
 			children = (
 				AC2E86A72A245B7600595EDA /* main.swift */,
 				AC2E86AF2A245CDE00595EDA /* AtCoder */,
+				AC2E86B02A245CFE00595EDA /* AlgoMethod */,
 			);
 			path = SolvingCompetitiveProgramming;
 			sourceTree = "<group>";
@@ -68,6 +69,13 @@
 			children = (
 			);
 			path = AtCoder;
+			sourceTree = "<group>";
+		};
+		AC2E86B02A245CFE00595EDA /* AlgoMethod */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = AlgoMethod;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
