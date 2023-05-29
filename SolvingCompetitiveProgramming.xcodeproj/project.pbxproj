@@ -58,8 +58,16 @@
 			isa = PBXGroup;
 			children = (
 				AC2E86A72A245B7600595EDA /* main.swift */,
+				AC2E86AF2A245CDE00595EDA /* AtCoder */,
 			);
 			path = SolvingCompetitiveProgramming;
+			sourceTree = "<group>";
+		};
+		AC2E86AF2A245CDE00595EDA /* AtCoder */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = AtCoder;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
