@@ -74,8 +74,16 @@
 		AC2E86B02A245CFE00595EDA /* AlgoMethod */ = {
 			isa = PBXGroup;
 			children = (
+				AC2E86B12A245E2D00595EDA /* FullSearch */,
 			);
 			path = AlgoMethod;
+			sourceTree = "<group>";
+		};
+		AC2E86B12A245E2D00595EDA /* FullSearch */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = FullSearch;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
