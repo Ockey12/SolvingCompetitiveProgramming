@@ -11,6 +11,7 @@
 		AC2E86B42A245EC700595EDA /* ArrayFullSearch1.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2E86B32A245EC700595EDA /* ArrayFullSearch1.swift */; };
 		AC2E86B62A24630300595EDA /* arrayFullSearch2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2E86B52A24630300595EDA /* arrayFullSearch2.swift */; };
 		AC2E86B82A2463C300595EDA /* arrayFullSearch3.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2E86B72A2463C300595EDA /* arrayFullSearch3.swift */; };
+		AC2E86BA2A262E2600595EDA /* arrayFullSearch4.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2E86B92A262E2600595EDA /* arrayFullSearch4.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		AC2E86B32A245EC700595EDA /* ArrayFullSearch1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayFullSearch1.swift; sourceTree = "<group>"; };
 		AC2E86B52A24630300595EDA /* arrayFullSearch2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = arrayFullSearch2.swift; sourceTree = "<group>"; };
 		AC2E86B72A2463C300595EDA /* arrayFullSearch3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = arrayFullSearch3.swift; sourceTree = "<group>"; };
+		AC2E86B92A262E2600595EDA /* arrayFullSearch4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = arrayFullSearch4.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 				AC2E86B32A245EC700595EDA /* ArrayFullSearch1.swift */,
 				AC2E86B52A24630300595EDA /* arrayFullSearch2.swift */,
 				AC2E86B72A2463C300595EDA /* arrayFullSearch3.swift */,
+				AC2E86B92A262E2600595EDA /* arrayFullSearch4.swift */,
 			);
 			path = ArrayFullSearch;
 			sourceTree = "<group>";
@@ -161,6 +164,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC2E86BA2A262E2600595EDA /* arrayFullSearch4.swift in Sources */,
 				AC2E86B82A2463C300595EDA /* arrayFullSearch3.swift in Sources */,
 				AC2E86B42A245EC700595EDA /* ArrayFullSearch1.swift in Sources */,
 				AC2E86B62A24630300595EDA /* arrayFullSearch2.swift in Sources */,
