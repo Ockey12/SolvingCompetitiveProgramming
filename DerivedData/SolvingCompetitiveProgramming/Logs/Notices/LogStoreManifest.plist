@@ -6,6 +6,62 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>14A3422D-ABF9-4B65-9BD3-06E3A8F2D012</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>14A3422D-ABF9-4B65-9BD3-06E3A8F2D012.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9vbmFnYVwvU29sdmluZ0NvbXBldGl0aXZlUHJvZ3JhbW1pbmdcL1NvbHZpbmdDb21wZXRpdGl2ZVByb2dyYW1taW5nLnhjb2RlcHJvaiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>707145508.43885505</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build SolvingCompetitiveProgramming</string>
+			<key>uniqueIdentifier</key>
+			<string>14A3422D-ABF9-4B65-9BD3-06E3A8F2D012</string>
+		</dict>
+		<key>1D849F11-6B65-4A2A-B766-9DF65B0C0140</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1D849F11-6B65-4A2A-B766-9DF65B0C0140.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>707145508.43885505</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build SolvingCompetitiveProgramming</string>
+			<key>uniqueIdentifier</key>
+			<string>1D849F11-6B65-4A2A-B766-9DF65B0C0140</string>
+		</dict>
 		<key>4264D285-3650-47F7-8A84-F490C3C06292</key>
 		<dict>
 			<key>className</key>
@@ -61,6 +117,34 @@
 			<string>Build SolvingCompetitiveProgramming</string>
 			<key>uniqueIdentifier</key>
 			<string>599E6E7C-758D-4651-AADE-4DB0F3E7345E</string>
+		</dict>
+		<key>A07684AE-EFE5-4991-B7B7-9EF1DA306D7A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A07684AE-EFE5-4991-B7B7-9EF1DA306D7A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL29uYWdhXC9Tb2x2aW5nQ29tcGV0aXRpdmVQcm9ncmFtbWluZ1wvU29sdmluZ0NvbXBldGl0aXZlUHJvZ3JhbW1pbmcueGNvZGVwcm9qIiwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJBQzJFODZBMzJBMjQ1Qjc2MDA1OTVFREEifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>707145508.43885505</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build SolvingCompetitiveProgramming</string>
+			<key>uniqueIdentifier</key>
+			<string>A07684AE-EFE5-4991-B7B7-9EF1DA306D7A</string>
 		</dict>
 		<key>A4C05A4E-1107-4A3F-8ADB-968055C0628B</key>
 		<dict>

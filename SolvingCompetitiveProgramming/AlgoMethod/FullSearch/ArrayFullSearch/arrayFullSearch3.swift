@@ -8,7 +8,7 @@
 import Foundation
 
 func arrayFullSearch3() {
-    let N = readInt()
+    let _ = readInt()
     let array = readIntsArray()
     
     var numOfPositive = 0
